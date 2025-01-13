@@ -5,9 +5,14 @@
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
     Edits made by:
-    TODO: <Add name of student 1 Here> -- to be added by student 1
+
+    
     Frederick Oguine
-    TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
+
+    TODO: <Alpha Nyabuto> -- to be added by student 1
+    
+
+    
  */
 #include <iostream>
 using namespace std;
