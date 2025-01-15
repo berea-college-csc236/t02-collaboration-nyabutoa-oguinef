@@ -6,13 +6,9 @@
 
     Edits made by:
 
-    
     Frederick Oguine
+    Alpha Nyabuto
 
-    TODO: <Alpha Nyabuto> -- to be added by student 1
-    
-
-    
  */
 #include <iostream>
 using namespace std;
